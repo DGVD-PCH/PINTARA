@@ -1,0 +1,17 @@
+{
+  "name": "draw-guess-game",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "socket.io": "^4.8.3"
+  },
+  "description": "A simple web-based multiplayer game where one player draws and others try to guess.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
